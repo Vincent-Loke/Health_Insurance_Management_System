@@ -1,1 +1,3 @@
 # Health_Insurance_Management_System
+
+Development of a health insurance management system that allow the user to select and subscribe to available insurance plan. A insurance subscriber can claim the normal wardroom and ICU charges based on eligibility under his/her plan. The system should be able to search up the database and output the number of Annual Claim Limit member who has exhausted all their amount balance and also has another option to output the total amount claim of all Lifetime Claim Limit members. The system provide the System Administrator to to search for a particular member by using their name or id or age, plan type, and type of claim limit
