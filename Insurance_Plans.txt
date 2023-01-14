@@ -1,0 +1,215 @@
+ID: 00001
+Name: Vincent Loke
+Age: 200 Days Old
+Type of Claim Limit: ACL
+Type of Plan: Plan120
+Amount Balance: RM 117630.00
+Amount Claim: RM 2370.00
+Date Subcription: 31/10/2020
+Address: No. 33S, Taman Bukit Tinggi, Bandar Cerah Pedang, Selangor, 76123
+Contact Number: 012-3467837
+Health History: None
+
+ID: 00002
+Name: Arda Bender
+Age: 12 Years Old
+Type of Claim Limit: LCL
+Type of Plan: Plan120
+Amount Balance: RM 595260.00
+Amount Claim: RM 4740.00
+Date Subcription: 31/10/2020
+Address: No. 23, Taman Puncak, Bandar Kecil, Perak, 12345
+Contact Number: 012-3467843
+Health History: Kidney Stone
+
+ID: 00003
+Name: Madina Hanna
+Age: 16 Years Old
+Type of Claim Limit: ACL
+Type of Plan: Plan150
+Amount Balance: RM 142350.00
+Amount Claim: RM 7650.00
+Date Subcription: 31/10/2020
+Address: No. 12, Taman Fungi, Bandar Baru, Terrenganu, 34278
+Contact Number: 012-43678434
+Health History: None
+
+ID: 00004
+Name: Malika Benitez
+Age: 16 Years Old
+Type of Claim Limit: LCL
+Type of Plan: Plan150
+Amount Balance: RM 739800.00
+Amount Claim: RM 10200.00
+Date Subcription: 31/10/2020
+Address: No. 34, Taman Gembira, Kuala Lumpur, Wilayah Persekutuan, 82372
+Contact Number: 012-4538734
+Health History: None
+
+ID: 00005
+Name: Lily-May Wise
+Age: 18 Years Old
+Type of Claim Limit: ACL
+Type of Plan: Plan200
+Amount Balance: RM 185500.00
+Amount Claim: RM 14500.00
+Date Subcription: 31/10/2020
+Address: No. 234, Taman Hujan, Bandar Emas, Melaka, 13782
+Contact Number: 019-78347873
+Health History: Heart Attack
+
+ID: 00006
+Name: Kurt Holmes
+Age: 14 Years Old
+Type of Claim Limit: LCL
+Type of Plan: Plan200
+Amount Balance: RM 982600.00
+Amount Claim: RM 17400.00
+Date Subcription: 31/10/2020
+Address: No. 78F, Taman Gunun, Bandar Pelik, Johor Bahru, 12988
+Contact Number: 012-67436743
+Health History: None
+
+ID: 00007
+Name: Lim Wing Yue
+Age: 25 Years Old
+Type of Claim Limit: ACL
+Type of Plan: Plan150
+Amount Balance: RM 0.00
+Amount Claim: RM 150000.00
+Date Subcription: 31/10/2020
+Address: No. 23, Taman Kinara, Bandar Selatan, Pahang, 87343
+Contact Number: 012-3467673
+Health History: High Blood Pressure
+
+ID: 00008
+Name: IP Man
+Age: 40 Years Old
+Type of Claim Limit: ACL
+Type of Plan: Plan200
+Amount Balance: RM 200000.00
+Amount Claim: RM 0.00
+Date Subcription: 31/10/1999
+Address: No. 23, Taman Chinatown, Bandar Kung Fu, China, 82372
+Contact Number: 012-3478783
+Health History: Cancer
+
+ID: 00009
+Name: Loke Weng Khay
+Age: 25 Years Old
+Type of Claim Limit: ACL
+Type of Plan: Plan150
+Amount Balance: RM 132150.00
+Amount Claim: RM 17850.00
+Date Subcription: 31/10/2020
+Address: No. 23G, Taman Gembira, Kuala Lumpur, Wilayah Persekutuan, 12189
+Contact Number: 012-347 8394
+Health History: Kidney Stone
+
+ID: 00010
+Name: Rhia Barajas
+Age: 33 Years Old
+Type of Claim Limit: LCL
+Type of Plan: Plan150
+Amount Balance: RM 744000.00
+Amount Claim: RM 6000.00
+Date Subcription: 31/10/2020
+Address: No. 23, Taman Hijau, Bandar Sayur, Penang, 23478
+Contact Number: 012-4378437
+Health History: None
+
+ID: 00011
+Name: Bryson Reilly
+Age: 35 Years Old
+Type of Claim Limit: LCL
+Type of Plan: Plan200
+Amount Balance: RM 995500.00
+Amount Claim: RM 4500.00
+Date Subcription: 31/10/2020
+Address: No. 56, Taman Pelabuhan Klang, Bandar Klang, Selangor, 12893
+Contact Number: 012-34784378
+Health History: Parkinson
+
+ID: 00012
+Name: Aronas Massey
+Age: 39 Years Old
+Type of Claim Limit: LCL
+Type of Plan: Plan150
+Amount Balance: RM 744000.00
+Amount Claim: RM 6000.00
+Date Subcription: 31/10/2020
+Address: No. 26, Taman Sedih, Bandar Jauh, Negeri Sembilan, 89342
+Contact Number: 012-83477348
+Health History: None
+
+ID: 00013
+Name: Tamanna Salgado
+Age: 47 Years Old
+Type of Claim Limit: ACL
+Type of Plan: Plan200
+Amount Balance: RM 0.00
+Amount Claim: RM 200000.00
+Date Subcription: 31/10/2020
+Address: No. 56, Taman Biru, Bandar Kelakar, Perlis, 67122
+Contact Number: 017-4738783
+Health History: Leukemia
+
+ID: 00014
+Name: Kristi Mccabe
+Age: 41 Years Old
+Type of Claim Limit: LCL
+Type of Plan: Plan200
+Amount Balance: RM 909200.00
+Amount Claim: RM 90800.00
+Date Subcription: 31/10/2020
+Address: No. 34, Taman Lama, Bandar Baru, Kelantan, 78433
+Contact Number: 014-7834783
+Health History: None
+
+ID: 00015
+Name: Aeryn Parra
+Age: 50 Years Old
+Type of Claim Limit: ACL
+Type of Plan: Plan200
+Amount Balance: RM 196600.00
+Amount Claim: RM 3400.00
+Date Subcription: 31/10/2020
+Address: No. 67, Taman Karak, Bandar Raya, Selangor, 89343
+Contact Number: 015-5734834
+Health History: Heart Disease
+
+ID: 00016
+Name: Randy Sellers
+Age: 50 Years Old
+Type of Claim Limit: LCL
+Type of Plan: Plan200
+Amount Balance: RM 1000000.00
+Amount Claim: RM 0.00
+Date Subcription: 31/10/2020
+Address: No. 45, Taman Tinggi, Bandar Sungguh Tinggi, Putrajaya, 12839
+Contact Number: 012-7684538
+Health History: None
+
+ID: 00017
+Name: Clarice Hill
+Age: 53 Years Old
+Type of Claim Limit: ACL
+Type of Plan: Plan200
+Amount Balance: RM 192400.00
+Amount Claim: RM 7600.00
+Date Subcription: 31/10/2020
+Address: No. 89, Long Road , Columbus, Ohio, 12678
+Contact Number: 012-3478734
+Health History: Anemia
+
+ID: 00018
+Name: Meg Bowes
+Age: 51 Years Old
+Type of Claim Limit: LCL
+Type of Plan: Plan200
+Amount Balance: RM 979600.00
+Amount Claim: RM 20400.00
+Date Subcription: 31/10/2020
+Address: No. 45, Taman Jarak Jauh, Bandar Dekat, Penang, 78912
+Contact Number: 012-8734784
+Health History: None

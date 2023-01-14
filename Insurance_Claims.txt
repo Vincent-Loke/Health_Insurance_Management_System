@@ -1,0 +1,126 @@
+Insurance Claim:
+ID: 00001
+Name: Vincent Loke
+Claim Date: 31/10/2020
+Total Amount Claim: RM 2370.00
+Balance Claimable Amount: RM 117630.00
+
+
+Insurance Claim:
+ID: 00002
+Name: Arda Bender
+Claim Date: 31/10/2020
+Total Amount Claim: RM 4740.00
+Balance Claimable Amount: RM 595260.00
+
+
+Insurance Claim:
+ID: 00003
+Name: Madina Hanna
+Claim Date: 31/10/2020
+Total Amount Claim: RM 7650.00
+Balance Claimable Amount: RM 142350.00
+
+
+Insurance Claim:
+ID: 00004
+Name: Malika Benitez
+Claim Date: 31/10/2020
+Total Amount Claim: RM 10200.00
+Balance Claimable Amount: RM 739800.00
+
+
+Insurance Claim:
+ID: 00005
+Name: Lily-May Wise
+Claim Date: 31/10/2020
+Total Amount Claim: RM 14500.00
+Balance Claimable Amount: RM 185500.00
+
+
+Insurance Claim:
+ID: 00006
+Name: Kurt Holmes
+Claim Date: 31/10/2020
+Total Amount Claim: RM 17400.00
+Balance Claimable Amount: RM 982600.00
+
+
+Insurance Claim:
+ID: 00007
+Name: Lim Wing Yue
+Claim Date: 31/10/2020
+Total Amount Claim: RM 150000.00
+Balance Claimable Amount: RM 0.00
+
+
+Insurance Claim:
+ID: 00009
+Name: Loke Weng Khay
+Claim Date: 31/10/2020
+Total Amount Claim: RM 17850.00
+Balance Claimable Amount: RM 132150.00
+
+
+Insurance Claim:
+ID: 00010
+Name: Rhia Barajas
+Claim Date: 31/10/2020
+Total Amount Claim: RM 6000.00
+Balance Claimable Amount: RM 744000.00
+
+
+Insurance Claim:
+ID: 00011
+Name: Bryson Reilly
+Claim Date: 31/10/2020
+Total Amount Claim: RM 4500.00
+Balance Claimable Amount: RM 995500.00
+
+
+Insurance Claim:
+ID: 00012
+Name: Aronas Massey
+Claim Date: 31/10/2020
+Total Amount Claim: RM 6000.00
+Balance Claimable Amount: RM 744000.00
+
+
+Insurance Claim:
+ID: 00015
+Name: Aeryn Parra
+Claim Date: 31/10/2020
+Total Amount Claim: RM 3400.00
+Balance Claimable Amount: RM 196600.00
+
+
+Insurance Claim:
+ID: 00017
+Name: Clarice Hill
+Claim Date: 31/10/2020
+Total Amount Claim: RM 7600.00
+Balance Claimable Amount: RM 192400.00
+
+
+Insurance Claim:
+ID: 00018
+Name: Meg Bowes
+Claim Date: 31/10/2020
+Total Amount Claim: RM 20400.00
+Balance Claimable Amount: RM 979600.00
+
+
+Insurance Claim:
+ID: 00013
+Name: Tamanna Salgado
+Claim Date: 31/10/2020
+Total Amount Claim: RM 200000.00
+Balance Claimable Amount: RM 0.00
+
+
+Insurance Claim:
+ID: 00014
+Name: Kristi Mccabe
+Claim Date: 31/10/2020
+Total Amount Claim: RM 90800.00
+Balance Claimable Amount: RM 909200.00
